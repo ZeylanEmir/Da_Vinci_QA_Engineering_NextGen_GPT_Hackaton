@@ -18,7 +18,7 @@ clarifai_model = Model("https://clarifai.com/openai/chat-completion/models/gpt-4
 openai.api_key = openai_api_key
 
 # Streamlit app
-st.title("Chatbot with Clarifai and OpenAI GPT-4 Turbo")
+st.title("AI QA Engineering Assistant")
 
 # User input
 user_input = st.text_input("Ask a question:")
