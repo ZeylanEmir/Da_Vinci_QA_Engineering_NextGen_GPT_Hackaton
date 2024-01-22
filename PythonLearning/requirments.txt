@@ -1,0 +1,7 @@
+dotenv
+os
+streamlit
+PyPDF2
+clarifai
+openai
+ThreadPoolExecutor
